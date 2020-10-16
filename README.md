@@ -11,7 +11,7 @@
 *  自定义：.github/workflows/work.yaml 编辑
 
 ## 注意问题
-> t
+> 
 > **问题一：[项目叉后定时任务没有执行] （https://github.com/ZHDeveloper/JD_Sign_Action/issues/3）**
 > 
 >>1、建议修改README.md提交，以触发定时任务。
